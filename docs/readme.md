@@ -7,4 +7,5 @@ Steps to run this project:
 5. if running the project for the first time either run the cli and
     write php initProject.php
     or use the gui to initalize the db table.
-6. attached is link for youtube showing the results of the project.
+6. attached is link for youtube showing the results of the project. https://youtu.be/93pSRx8Ieiw
+7. create new db named "newMedia" utf-8 encoding.
